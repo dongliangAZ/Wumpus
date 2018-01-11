@@ -1,0 +1,20 @@
+
+Hello Cody,
+
+Just use GameGUI(In package controller) to play the game.
+I have 2 controlbottoms for both two versions (Graphic/Text).
+There is not a "player" class. I designed everything based on the map.(Just figured out a player class might help it easier.)
+
+Have made sure the game won't continue after it is over.
+However, user can still make one click on the bottom. It doesn't change anything though.
+(Told you this in Friday's section.) 
+
+Tests just test the classes in "model" package and it should covered it over 95%.
+
+I just put all the images files in the project and not sure it is the way I am supposed to do.
+But they worked fine.  :)
+
+
+Happy grading!
+
+Dong Liang 
